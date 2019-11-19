@@ -1,4 +1,4 @@
-# Data-Visualization-with-powerbi
-This is a visualisation with powerbi, using online sales data. The dashboard was also published online
-You don't need to have powerbi pre-installed on your system
-This dashboard has been published online already and can be accessed directly with the online link
+# Data-Visualization-with-Power BI
+This is a visualisation with Power BI using online sales data. The dashboard too was also published online.
+You don't actually need to have Power BI pre-installed on your computer
+This dashboard has been published online already and can be accessed directly using the link.
